@@ -16,6 +16,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
+	  "customized_template_paths": ["_dependentPackages/memberpage.plugins/content"],
       "template_folder": "_themes"
     }
   ],

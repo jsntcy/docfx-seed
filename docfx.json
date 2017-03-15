@@ -19,7 +19,7 @@
         "dest": "api"
       },
       {
-        "files": [ "articles/**/*.md", "*.md", "toc.yml", "restapi/**" ]
+        "files": [ "articles/**/*.md", "*.md", "toc.yml" ]
       }
     ],
     "resource": [
@@ -29,8 +29,7 @@
     ],
     "overwrite": "specs/*.md",
     "globalMetadata": {
-      "_appTitle": "docfx seed website",
-      "_enableSearch": true
+      "_appTitle": "docfx seed website"
     },
     "dest": "_site"
   }

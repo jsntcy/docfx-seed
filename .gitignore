@@ -5,8 +5,8 @@
 /**/TEMP/
 /**/packages/
 /**/bin/
+*/**/obj/
 /**/csx/
-/**/obj/
 /**/xdocoutput/
 /**/node_modules/
 /**/*.sln.ide/

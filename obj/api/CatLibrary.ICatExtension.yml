@@ -25,7 +25,7 @@ items:
   assemblies:
   - CatLibrary
   namespace: CatLibrary
-  summary: "\nIt's the class that contains ICat interface's extension method.\n<p>This class must be <strong>public</strong> and <strong>static</strong>.</p>\n<p>Also it shouldn't be a geneic class</p>\n"
+  summary: "\n[Updated! test uid link to aggregate to CatLibrary.Cat-2.yml]It's the class that contains ICat interface's extension method.\n<p>This class must be <strong>public</strong> and <strong>static</strong>.</p>\n<p>Also it shouldn't be a geneic class</p>\n"
   example: []
   syntax:
     content: public static class ICatExtension

@@ -27,7 +27,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/vicancy/templates.docs.msft",
-      "branch": "preview-prerelease",
+      "branch": "preview-prelease",
       "branch_mapping": {}
     }
   ],

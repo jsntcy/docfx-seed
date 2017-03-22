@@ -22,7 +22,7 @@ remarks: '*THIS* is remarks overridden in *MARKDWON* file'
 ---
 uid: CatLibrary.Cat`2.CalculateFood(System.DateTime)
 name: "Override CalculateFood Name"
-summary: "[for test III]It's an overridden summary in `markdown` format"
+summary: "[for test IV]It's an overridden summary in `markdown` format"
 syntax:
     parameters:
     - id: date

@@ -1,6 +1,6 @@
 ---
 uid: CatLibrary.Cat`2
-remarks: '*THIS* is remarks overridden in *MARKDWON* file'
+remarks: '*THIS* is remarks overridden in *MARKDWON* file'[Test warning relay](invalid.md)
 ---
 
 This is a class talking about [CAT](https://en.wikipedia.org/wiki/Cat).

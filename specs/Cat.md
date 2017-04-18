@@ -1,7 +1,6 @@
 ---
 uid: CatLibrary.Cat`2
 remarks: '*THIS* is remarks overridden in *MARKDWON* file'
-summary: "It's an overridden summary in `markdown` format for cat:):)"
 ---
 
 This is a class talking about [CAT](https://en.wikipedia.org/wiki/Cat).

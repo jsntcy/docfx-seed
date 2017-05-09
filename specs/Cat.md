@@ -1,7 +1,7 @@
 ---
 uid: CatLibrary.Cat`2
 remarks: '*THIS* is remarks overridden in *MARKDWON* file'
-summary: 'test namespace update'
+summary: 'test namespace updateII'
 ---
 
 This is a class talking about [CAT](https://en.wikipedia.org/wiki/Cat).

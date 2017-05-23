@@ -24,7 +24,7 @@ items:
   assemblies:
   - CatLibrary
   namespace: CatLibrary
-  summary: "\nCat's interface\n"
+  summary: "\nCat's interface. [TestConceptual](articles/csharp_coding_standards.md)\n"
   example: []
   syntax:
     content: 'public interface ICat : IAnimal'
